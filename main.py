@@ -46,19 +46,19 @@ Bot = Client(
 START_TEXT = """Hello {}, \
 I am a channel auto post telegram bot.
 
-Made by @FayasNoushad"""
+Made by @DarkiezZzz"""
 
 BUTTONS = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                'Channel', url='https://telegram.me/FayasNoushad'),
+                'Channel', url='t.me/HaotogelOfficialLivedraw'),
             InlineKeyboardButton(
-                'Feedback', url='https://telegram.me/TheFayas')
+                'Group', url='t.me/HaoTogelLivedraw')
         ],
         [
             InlineKeyboardButton(
-                'Source Code', url='https://github.com/FayasNoushad/Channel-Auto-Post-Bot')
+                'Source Code', url='https://github.com/Twilight-Killer/Channel-Auto-Post-Bot')
         ]
     ]
 )
