@@ -52,7 +52,7 @@ python3 main.py
 
 ## Credits
 
-- [Fayas Noushad](https://github.com/FayasNoushad)
+- [DarkiezZzz](https://github.com/Twilight-Killer)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 ---
